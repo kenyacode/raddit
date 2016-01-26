@@ -1,4 +1,4 @@
-<% @links.order(cached_weighted_total: :desc).each do |link| %>
+<% @links.order(cached_votes_up: :desc).each do |link| %>
   <div class="link row clearfix">
     <h2>
       <%= link_to link.title, link %><br>
