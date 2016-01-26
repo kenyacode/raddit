@@ -52,3 +52,4 @@ Locally I use sqlite3 and for production postgresql
 ####[LinkedIn](https://www.linkedin.com/in/kenyacode)
 ####<kenyadevelop@gmail.com>
 ####[Recipe Box app](https://github.com/kenyacode/recipe_box)
+####[Blog app](https://github.com/kenyacode/blog)
