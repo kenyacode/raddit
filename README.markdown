@@ -50,8 +50,10 @@ Locally I use sqlite3 and for production postgresql
 #### I learned to code at [generalassemb.ly] ![ga logo](https://media.licdn.com/media/p/3/005/0a3/2df/1671d50.png)
 ### Contact Me [LinkedIn](https://www.linkedin.com/in/kenyacode) or [Email](mailto:kenyadevelop@gmail.com)
 ###My other Apps
-####Github Repo [Blog app](https://github.com/kenyacode/blog) Live on Heroku [jmblog]
-####Github Repo [Recipe Box app](https://github.com/kenyacode/recipe-app) Live on Heroku comming soon
-#### Pinterest type app also coming soon!
+####[Blog repo](https://github.com/kenyacode/blog) Live on Heroku [jmblog]
+####[Pin Board repo](https://github.com/kenyacode/pin_board) Live on Heroku [pintirest]
+####[Recipe Box app](https://github.com/kenyacode/recipe-app) Live on Heroku comming soon
+
 [generalassemb.ly]:https://generalassemb.ly/
 [jmblog]:https://jmblog.herokuapp.com/
+[pintirest]:https://pintirest.herokuapp.com/
